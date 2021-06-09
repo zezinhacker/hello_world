@@ -1,8 +1,12 @@
 # hello_world
 repositorio para aula de **git** e **github**
 
-## Teste em markdown
+## Objetivos
 
-Este é um parágrafo. __italico__
+* Aprender a clonar o repositório;
+* Aprender a colocar os arquivos para treckear;
+* Aprender a fazer o commit;
+* Aprender a enviar as modificações para o github;
+* Aprender a baixar as modificações.
 
-este é outro paragrafo
+## Criar versão de arquivos modificados/incluidos/deletados
